@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This research report identifies 50 high-potential app ideas with viral potential and $100k+ MRR opportunity for 2025. Based on comprehensive market research across social media, forums, and industry reports, these ideas are organized into 8 major categories representing the most promising opportunities in the current market.
+This research report identifies 51 high-potential app ideas with viral potential and $100k+ MRR opportunity for 2025. Based on comprehensive market research across social media, forums, and industry reports, these ideas are organized into 8 major categories representing the most promising opportunities in the current market.
 
 ## Market Context
 
@@ -70,7 +70,7 @@ This research report identifies 50 high-potential app ideas with viral potential
 28. [AI Meal Planning & Grocery App](./ideas/28-meal-planning.md)
 29. [Habit Tracking with Gamification](./ideas/29-habit-tracker.md)
 
-### Fintech (8 Ideas)
+### Fintech (9 Ideas)
 30. [Commission-Free Trading App](./ideas/30-commission-free-trading.md)
 31. [Algorithmic Trading Bot Platform](./ideas/31-algorithmic-trading.md)
 32. [Cryptocurrency Portfolio Tracker](./ideas/32-crypto-portfolio-tracker.md)
@@ -98,6 +98,7 @@ This research report identifies 50 high-potential app ideas with viral potential
 
 ### Web3 & Emerging Tech (2 Ideas)
 50. [Decentralized Social Media Platform](./ideas/50-decentralized-social.md)
+51. [Web3 Streaming Platform with NFTs](./ideas/51-web3-streaming.md)
 
 ---
 
